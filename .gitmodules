@@ -1,0 +1,3 @@
+[submodule "gDocThemes"]
+	path = gDocThemes
+	url = git@github.com:Whyounes/gDocThemes.git
