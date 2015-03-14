@@ -9,7 +9,8 @@ $finder = Finder::create()->files()->in($dir);
 
 $versions = RAFIE\Version\GitVersionCollection::create($dir)
     ->add('master', 'Master')
-    ->add('4.2', '4.2');
+    ->add('5.0', '5.0');
+// I didn't use multiple versions, like 4.2 because I have to create a doc.yml to describe the documentation structure.
 
 $options = [
     'theme'       => 'laravel',
