@@ -2,5 +2,5 @@
 	path = gDocThemes
 	url = git@github.com:Whyounes/gDocThemes.git
 [submodule "LaravelDocs"]
-	path = doc
+	path = LaravelDocs
 	url = git@github.com:Whyounes/LaravelDocs.git

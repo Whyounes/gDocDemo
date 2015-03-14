@@ -3,7 +3,7 @@
 use RAFIE\Configuration;
 use Symfony\Component\Finder\Finder;
 
-$dir = __DIR__ . '/../doc';
+$dir = __DIR__ . '/../LaravelDocs';
 
 $finder = Finder::create()->files()->in($dir);
 
