@@ -1,0 +1,13 @@
+{
+	"require": {
+        "rafie/gdoc": "dev-master"
+	},
+    "require-dev": {
+        "symfony/var-dumper": "3.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "RAFIE\\": "src/"
+        }
+    }
+}
