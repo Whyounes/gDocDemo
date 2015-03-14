@@ -1,7 +1,7 @@
 This repository is a demo for the [gDoc](https://github.com/Whyounes/gDoc) package.
 
 ##Installation
-Clone the repository to your computer and run `composer update`. The repo contain a copy of the [Laravel documentation repository](https://github.com/laravel/docs) and I created a `doc.yml` file to make it work properly with the package.
+Clone the repository to your computer `git clone --recursive git@github.com:Whyounes/gDocDemo.git` and run `composer update`. The repo contain a copy of the [Laravel documentation repository](https://github.com/laravel/docs) and I created a `doc.yml` file to make it work properly with the package.
 To generate the static files for your demo you can use the `config/config.php` file and run the following command.
 
 ```bash
