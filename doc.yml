@@ -1,0 +1,57 @@
+navigation:
+  Prologue:
+    Releases Notes: releases.html
+    Upgrade Guide: upgrade.html
+    Contribution Guide: contributions.html
+  Setup:
+    Installation: installation.html
+    Configuration: configuration.html
+    Homestead: homestead.html
+  The Basics:
+    Routing: routing.html
+    Middleware: middleware.html
+    Controllers: controllers.html
+    Requests: requests.html
+    Responses: responses.html
+    Views: views.html
+  Architecture Foundations:
+    Service Providers: providers.html
+    Service Containers: container.html
+    Contracts: contracts.html
+    Facades: facades.html
+    Request Lifecycle: lifecycle.html
+    Application Structure: structure.html
+  Services:
+    Authentication: authentication.html
+    Billing: billing.html
+    Cache: cache.html
+    Collections: collections.html
+    Command Bus: bus.html
+    Core Extension: extending.html
+    Elixir: elixir.html
+    Encryption: encryption.html
+    Envoy: envoy.html
+    Errors & Logging: errors.html
+    Events: events.html
+    Filesystem / Cloud Storage: filesystem.html
+    Hashing: hashing.html
+    Helpers: helpers.html
+    Localization: localization.html
+    Mail: mail.html
+    Package Development: packages.html
+    Pagination: pagination.html
+    Queues: queues.html
+    Session: session.html
+    Templates: templates.html
+    Unit Testing: testing.html
+    Validation: validation.html
+  Database:
+    Basic Usage: database.html
+    Query Builder: queries.html
+    Eloquent ORM: eloquent.html
+    Schema Builder: schema.html
+    Migrations & Seeding: migrations.html
+    Redis: redis.html
+  Artisan CLI:
+    Overview: artisan.html
+    Development: commands.html
